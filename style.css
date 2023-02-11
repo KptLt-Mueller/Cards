@@ -110,8 +110,8 @@ h1 + p, p + p {
 }
 
 .card-info h1 {
-  font-family: "Philosopher";
-  font-size: 20px;
+  font-family: "Georgia";
+  font-size: 16px;
   font-weight: 500;
   text-shadow: rgba(0, 0, 0, 0.5) 0 10px 10px;
 }
