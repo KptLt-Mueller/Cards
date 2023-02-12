@@ -15,7 +15,7 @@ h1 + p, p + p {
 }
 
 .container {
-  padding: 40px 80px;
+  padding: 40px 40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
