@@ -18,7 +18,7 @@ h1 + p, p + p {
   padding: 40px 40px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: right;
 }
 
 .card-wrap {
